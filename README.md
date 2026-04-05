@@ -45,3 +45,19 @@ It includes exercises and examples covering core libraries and concepts required
 	•	Pandas
 	•	Matplotlib
 	•	Seaborn
+🎯 Purpose
+
+This repository is part of my journey to build a strong foundation in Data Science, focusing on understanding core tools before moving to advanced machine learning projects.
+
+⸻
+
+🚀 Future Improvements
+	•	Add real-world datasets for analysis
+	•	Include mini projects combining all concepts
+	•	Improve visual storytelling with data
+
+⸻
+
+👩‍💻 Author
+
+Anuja
